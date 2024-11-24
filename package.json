@@ -1,6 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "ordbokene-norwegian-dictionary",
+  "name": "raycast-ordbokene",
   "title": "Ordbøkene - Norwegian Dictionary",
   "description": "Search the official Norwegian dictionary for both bokmål and nynorsk definitions.",
   "icon": "ordbøkene-icon.png",
